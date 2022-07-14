@@ -33,6 +33,8 @@ Repositorio criado para a Disciplina de Software Livre
 
 > Tenho como Hobby estudar o mundo linux
 
+![Avatar](https://cdn-images-1.medium.com/max/208/1*H0GLr-ApMB4bRPgnti32mQ@2x.jpeg)
+
 
 
 
